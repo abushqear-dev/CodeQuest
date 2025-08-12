@@ -17,7 +17,13 @@ Educational Features
 - Hands-on Programming: The game enables players to apply programming concepts directly by solving puzzles that mirror real-world applications.
 - Instant Feedback: Players receive real-time feedback on their coding solutions, promoting continuous learning and encouraging improvement.
 - Skill Development: By blending fun challenges with active problem-solving, Code Quest provides a stimulating learning environment that fosters comprehensive and lasting skill development in programming.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Links to Designs:
+- **Poster**: https://www.figma.com/design/rIJZV4AkXlPLIMNTq4R8CE/Logo---Poster?node-id=0-1&p=f
+- **Login & Registration**: https://www.figma.com/design/0WKIpTl9L5Haa2a69DXaUP/Login---Registration?node-id=0-1&p=f
+- **Main Menu**: https://www.figma.com/design/fvk0VIFAQN4KKEbsqbkoZZ/Main-Menu?node-id=0-1&p=f
+- **Old Versions**: https://www.figma.com/design/VyctwdfRsfqqMfyFlU70Ss/CodeQuest--Current-?node-id=0-1&p=f
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
